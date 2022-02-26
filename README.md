@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluedragon19
+- 👋 Hi, I’m @tadiwandiripo
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Html, Css, Javascript and Python.
 - 💞️ I’m looking to collaborate on android application development and web application development.
